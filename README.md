@@ -8,6 +8,4 @@
  <div>
     ### Want to create to-do-list
     Let's create a website
-
-    Under construction <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdifficultaltruisticblacknorwegianelkhound&psig=AOvVaw37K0XEBNeny0IjmPhFexWq&ust=1601562348185000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDJj5KLkewCFQAAAAAdAAAAABAD" width="35px">
 </div>
