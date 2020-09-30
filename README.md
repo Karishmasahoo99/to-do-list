@@ -9,4 +9,4 @@
  ## Want to maintain a to-do list 
  Let's build an website  
  
- UNDER CONSTRUCTION <br/><br/><img src="https://media4.giphy.com/media/h8rF5UWJgEGfE6kWNP/source.gif" width="35px"/>
+ UNDER CONSTRUCTION <br/><img src="https://media4.giphy.com/media/h8rF5UWJgEGfE6kWNP/source.gif" width="35px"/>
